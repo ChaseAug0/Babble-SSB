@@ -1,0 +1,22 @@
+{
+  "name": "ssb-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "babble-plugin": "file:./babble-plugin",
+    "pull-stream": "^3.0.0",
+    "secret-stack": "file:../../src/github.com/secret-stack",
+    "ssb-blobs": "^2.0.1",
+    "ssb-config": "file:../../src/github.com/ssb-config",
+    "ssb-db": "file:../../src/github.com/ssb-db",
+    "ssb-keys": "file:../../src/github.com/ssb-keys",
+    "ssb-master": "^1.0.3",
+    "ssb-validate": "^4.1.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
