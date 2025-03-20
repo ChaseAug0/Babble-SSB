@@ -1,6 +1,6 @@
 # Babble-SSB
 
-### ![Babble](https://github.com/mosaicnetworks/babble)
+### [Babble](https://github.com/mosaicnetworks/babble)
 ### Start Babble:
 
 ```shell
